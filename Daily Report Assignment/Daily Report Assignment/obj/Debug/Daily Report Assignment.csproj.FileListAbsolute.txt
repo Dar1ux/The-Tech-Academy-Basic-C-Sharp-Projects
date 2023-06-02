@@ -1,0 +1,7 @@
+C:\Users\djank\Documents\Pitman Training\The-Tech-Academy-Basic-C-Sharp-Projects\Daily Report Assignment\Daily Report Assignment\bin\Debug\Daily Report Assignment.exe.config
+C:\Users\djank\Documents\Pitman Training\The-Tech-Academy-Basic-C-Sharp-Projects\Daily Report Assignment\Daily Report Assignment\bin\Debug\Daily Report Assignment.exe
+C:\Users\djank\Documents\Pitman Training\The-Tech-Academy-Basic-C-Sharp-Projects\Daily Report Assignment\Daily Report Assignment\bin\Debug\Daily Report Assignment.pdb
+C:\Users\djank\Documents\Pitman Training\The-Tech-Academy-Basic-C-Sharp-Projects\Daily Report Assignment\Daily Report Assignment\obj\Debug\Daily Report Assignment.csproj.AssemblyReference.cache
+C:\Users\djank\Documents\Pitman Training\The-Tech-Academy-Basic-C-Sharp-Projects\Daily Report Assignment\Daily Report Assignment\obj\Debug\Daily Report Assignment.csproj.CoreCompileInputs.cache
+C:\Users\djank\Documents\Pitman Training\The-Tech-Academy-Basic-C-Sharp-Projects\Daily Report Assignment\Daily Report Assignment\obj\Debug\Daily Report Assignment.exe
+C:\Users\djank\Documents\Pitman Training\The-Tech-Academy-Basic-C-Sharp-Projects\Daily Report Assignment\Daily Report Assignment\obj\Debug\Daily Report Assignment.pdb
