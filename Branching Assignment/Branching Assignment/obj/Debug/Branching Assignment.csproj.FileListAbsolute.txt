@@ -1,0 +1,7 @@
+C:\Users\djank\Documents\Pitman Training\The-Tech-Academy-Basic-C-Sharp-Projects\Branching Assignment\Branching Assignment\bin\Debug\Branching Assignment.exe.config
+C:\Users\djank\Documents\Pitman Training\The-Tech-Academy-Basic-C-Sharp-Projects\Branching Assignment\Branching Assignment\bin\Debug\Branching Assignment.exe
+C:\Users\djank\Documents\Pitman Training\The-Tech-Academy-Basic-C-Sharp-Projects\Branching Assignment\Branching Assignment\bin\Debug\Branching Assignment.pdb
+C:\Users\djank\Documents\Pitman Training\The-Tech-Academy-Basic-C-Sharp-Projects\Branching Assignment\Branching Assignment\obj\Debug\Branching Assignment.csproj.AssemblyReference.cache
+C:\Users\djank\Documents\Pitman Training\The-Tech-Academy-Basic-C-Sharp-Projects\Branching Assignment\Branching Assignment\obj\Debug\Branching Assignment.csproj.CoreCompileInputs.cache
+C:\Users\djank\Documents\Pitman Training\The-Tech-Academy-Basic-C-Sharp-Projects\Branching Assignment\Branching Assignment\obj\Debug\Branching Assignment.exe
+C:\Users\djank\Documents\Pitman Training\The-Tech-Academy-Basic-C-Sharp-Projects\Branching Assignment\Branching Assignment\obj\Debug\Branching Assignment.pdb
