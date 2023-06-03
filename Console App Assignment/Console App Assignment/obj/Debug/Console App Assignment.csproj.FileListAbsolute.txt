@@ -1,0 +1,6 @@
+C:\Users\djank\Documents\Pitman Training\The-Tech-Academy-Basic-C-Sharp-Projects\Console App Assignment\Console App Assignment\bin\Debug\Console App Assignment.exe.config
+C:\Users\djank\Documents\Pitman Training\The-Tech-Academy-Basic-C-Sharp-Projects\Console App Assignment\Console App Assignment\bin\Debug\Console App Assignment.exe
+C:\Users\djank\Documents\Pitman Training\The-Tech-Academy-Basic-C-Sharp-Projects\Console App Assignment\Console App Assignment\bin\Debug\Console App Assignment.pdb
+C:\Users\djank\Documents\Pitman Training\The-Tech-Academy-Basic-C-Sharp-Projects\Console App Assignment\Console App Assignment\obj\Debug\Console App Assignment.csproj.CoreCompileInputs.cache
+C:\Users\djank\Documents\Pitman Training\The-Tech-Academy-Basic-C-Sharp-Projects\Console App Assignment\Console App Assignment\obj\Debug\Console App Assignment.exe
+C:\Users\djank\Documents\Pitman Training\The-Tech-Academy-Basic-C-Sharp-Projects\Console App Assignment\Console App Assignment\obj\Debug\Console App Assignment.pdb
