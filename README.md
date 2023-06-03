@@ -8,4 +8,5 @@ Repository will contain C# and .NET Framework projects.
 * Math and Comparison Operators Assignment - Anonymous Income Comparison Program.
 * Boolean Logic Assignment - Simple console application to collect input from a user, perform boolean operations on information received and print final result to the screen.
 * Branching Assignment - Console-based application for getting a shipping quote for a package.
+* Console App Assignment - Console-based application for guessing a number and a letter using while, do/while loops and a switch statement.
   
