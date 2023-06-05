@@ -10,4 +10,5 @@ Repository will contain C# and .NET Framework projects.
 * Branching Assignment - Console-based application for getting a shipping quote for a package.
 * Console App Assignment - Console-based application for guessing a number and a letter using while, do/while loops and a switch statement.
 * String Assignment - Console-based application manipulating and concatenating strings. Using StringBuilder to create a paragraph.
+* Console App Array Assignment - Creating Arrays and a List, printing out elements from them at an index requested by user. Using Try/catch statement to display a message when index is not valid.
   
