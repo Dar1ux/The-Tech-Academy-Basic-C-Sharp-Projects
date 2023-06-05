@@ -1,0 +1,7 @@
+C:\Users\djank\Documents\Pitman Training\The-Tech-Academy-Basic-C-Sharp-Projects\IterationAssignment\IterationAssignment\bin\Debug\IterationAssignment.exe.config
+C:\Users\djank\Documents\Pitman Training\The-Tech-Academy-Basic-C-Sharp-Projects\IterationAssignment\IterationAssignment\bin\Debug\IterationAssignment.exe
+C:\Users\djank\Documents\Pitman Training\The-Tech-Academy-Basic-C-Sharp-Projects\IterationAssignment\IterationAssignment\bin\Debug\IterationAssignment.pdb
+C:\Users\djank\Documents\Pitman Training\The-Tech-Academy-Basic-C-Sharp-Projects\IterationAssignment\IterationAssignment\obj\Debug\IterationAssignment.csproj.CoreCompileInputs.cache
+C:\Users\djank\Documents\Pitman Training\The-Tech-Academy-Basic-C-Sharp-Projects\IterationAssignment\IterationAssignment\obj\Debug\IterationAssignment.exe
+C:\Users\djank\Documents\Pitman Training\The-Tech-Academy-Basic-C-Sharp-Projects\IterationAssignment\IterationAssignment\obj\Debug\IterationAssignment.pdb
+C:\Users\djank\Documents\Pitman Training\The-Tech-Academy-Basic-C-Sharp-Projects\IterationAssignment\IterationAssignment\obj\Debug\IterationAssignment.csproj.AssemblyReference.cache
