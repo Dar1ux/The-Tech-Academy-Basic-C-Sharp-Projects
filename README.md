@@ -11,4 +11,5 @@ Repository will contain C# and .NET Framework projects.
 * Console App Assignment - Console-based application for guessing a number and a letter using while, do/while loops and a switch statement.
 * String Assignment - Console-based application manipulating and concatenating strings. Using StringBuilder to create a paragraph.
 * Console App Array Assignment - Creating Arrays and a List, printing out elements from them at an index requested by user. Using Try/catch statement to display a message when index is not valid.
+* Iteration Assignment - Exercises to iterate through Lists and Arrays.
   
