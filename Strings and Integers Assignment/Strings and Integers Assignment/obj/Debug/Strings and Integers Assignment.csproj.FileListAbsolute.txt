@@ -1,0 +1,7 @@
+C:\Users\djank\Documents\Pitman Training\The-Tech-Academy-Basic-C-Sharp-Projects\Strings and Integers Assignment\Strings and Integers Assignment\bin\Debug\Strings and Integers Assignment.exe.config
+C:\Users\djank\Documents\Pitman Training\The-Tech-Academy-Basic-C-Sharp-Projects\Strings and Integers Assignment\Strings and Integers Assignment\bin\Debug\Strings and Integers Assignment.exe
+C:\Users\djank\Documents\Pitman Training\The-Tech-Academy-Basic-C-Sharp-Projects\Strings and Integers Assignment\Strings and Integers Assignment\bin\Debug\Strings and Integers Assignment.pdb
+C:\Users\djank\Documents\Pitman Training\The-Tech-Academy-Basic-C-Sharp-Projects\Strings and Integers Assignment\Strings and Integers Assignment\obj\Debug\Strings and Integers Assignment.csproj.CoreCompileInputs.cache
+C:\Users\djank\Documents\Pitman Training\The-Tech-Academy-Basic-C-Sharp-Projects\Strings and Integers Assignment\Strings and Integers Assignment\obj\Debug\Strings and Integers Assignment.exe
+C:\Users\djank\Documents\Pitman Training\The-Tech-Academy-Basic-C-Sharp-Projects\Strings and Integers Assignment\Strings and Integers Assignment\obj\Debug\Strings and Integers Assignment.pdb
+C:\Users\djank\Documents\Pitman Training\The-Tech-Academy-Basic-C-Sharp-Projects\Strings and Integers Assignment\Strings and Integers Assignment\obj\Debug\Strings and Integers Assignment.csproj.AssemblyReference.cache
