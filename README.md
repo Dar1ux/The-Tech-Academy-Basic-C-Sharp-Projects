@@ -16,3 +16,4 @@ Repository will contain C# and .NET Framework projects.
 * Calling Methods Assignment - Console-based application with a separate class file and 3 methods in it that receive and return and integer variable. Methods are called from the main program.
 * Main Method Assignment - Console app that has 3 methods with same name, but takes in different data types. Performs math operations and returns an integer value.
 * Method Assignment - Console app takes 1 or 2 integers from a user, calls a method that performs math operations and returns an integer value.
+* Class Method Assignment - Console app takes  number from a user, calls a method, which performs math operation on the received number and returns integer value using out parameter.
