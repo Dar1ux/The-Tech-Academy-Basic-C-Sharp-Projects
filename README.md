@@ -14,4 +14,5 @@ Repository will contain C# and .NET Framework projects.
 * Iteration Assignment - Exercises to iterate through Lists and Arrays.
 * Strings and Integers Assignement - Simple console application dividing numbers and catching string, divide by zero exceptions.
 * Calling Methods Assignment - Console-based application with a separate class file and 3 methods in it that receive and return and integer variable. Methods are called from the main program.
-* Main Method Assignment - Console app that has 3 methods with same name, but takes in different data types. Performs math operations and returns an integer value.  
+* Main Method Assignment - Console app that has 3 methods with same name, but takes in different data types. Performs math operations and returns an integer value.
+* Method Assignment - Console app takes 1 or 2 integers from a user, calls a method that performs math operations and returns an integer value.
