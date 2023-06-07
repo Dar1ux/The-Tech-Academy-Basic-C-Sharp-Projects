@@ -1,0 +1,7 @@
+C:\Users\djank\Documents\Pitman Training\The-Tech-Academy-Basic-C-Sharp-Projects\Method Assignment\Method Assignment\bin\Debug\Method Assignment.exe.config
+C:\Users\djank\Documents\Pitman Training\The-Tech-Academy-Basic-C-Sharp-Projects\Method Assignment\Method Assignment\bin\Debug\Method Assignment.exe
+C:\Users\djank\Documents\Pitman Training\The-Tech-Academy-Basic-C-Sharp-Projects\Method Assignment\Method Assignment\bin\Debug\Method Assignment.pdb
+C:\Users\djank\Documents\Pitman Training\The-Tech-Academy-Basic-C-Sharp-Projects\Method Assignment\Method Assignment\obj\Debug\Method Assignment.csproj.AssemblyReference.cache
+C:\Users\djank\Documents\Pitman Training\The-Tech-Academy-Basic-C-Sharp-Projects\Method Assignment\Method Assignment\obj\Debug\Method Assignment.csproj.CoreCompileInputs.cache
+C:\Users\djank\Documents\Pitman Training\The-Tech-Academy-Basic-C-Sharp-Projects\Method Assignment\Method Assignment\obj\Debug\Method Assignment.exe
+C:\Users\djank\Documents\Pitman Training\The-Tech-Academy-Basic-C-Sharp-Projects\Method Assignment\Method Assignment\obj\Debug\Method Assignment.pdb
