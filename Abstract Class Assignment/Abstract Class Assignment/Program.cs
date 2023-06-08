@@ -15,6 +15,12 @@ namespace Abstract_Class_Assignment
             Employee employee = new Employee() { firstName = "Sample", lastName = "Student" };
             employee.SayName();
 
+            // Polymorphism Assignment Submission
+            // 3. Use polymorphism to create an object of type IQuittable and call the Quit() method on it.
+            // Hint: an object can be of an interface type if it implements that specific interface.
+            IQuittable gamer = new Employee() { firstName = "Elon", lastName = "Musk"};
+            gamer.Quit();
+
             Console.ReadLine();
         }
     }
