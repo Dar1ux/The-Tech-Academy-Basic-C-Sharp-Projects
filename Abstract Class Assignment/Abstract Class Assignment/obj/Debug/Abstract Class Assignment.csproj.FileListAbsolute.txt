@@ -1,0 +1,6 @@
+C:\Users\djank\Documents\Pitman Training\The-Tech-Academy-Basic-C-Sharp-Projects\Abstract Class Assignment\Abstract Class Assignment\bin\Debug\Abstract Class Assignment.exe.config
+C:\Users\djank\Documents\Pitman Training\The-Tech-Academy-Basic-C-Sharp-Projects\Abstract Class Assignment\Abstract Class Assignment\bin\Debug\Abstract Class Assignment.exe
+C:\Users\djank\Documents\Pitman Training\The-Tech-Academy-Basic-C-Sharp-Projects\Abstract Class Assignment\Abstract Class Assignment\bin\Debug\Abstract Class Assignment.pdb
+C:\Users\djank\Documents\Pitman Training\The-Tech-Academy-Basic-C-Sharp-Projects\Abstract Class Assignment\Abstract Class Assignment\obj\Debug\Abstract Class Assignment.csproj.CoreCompileInputs.cache
+C:\Users\djank\Documents\Pitman Training\The-Tech-Academy-Basic-C-Sharp-Projects\Abstract Class Assignment\Abstract Class Assignment\obj\Debug\Abstract Class Assignment.exe
+C:\Users\djank\Documents\Pitman Training\The-Tech-Academy-Basic-C-Sharp-Projects\Abstract Class Assignment\Abstract Class Assignment\obj\Debug\Abstract Class Assignment.pdb
