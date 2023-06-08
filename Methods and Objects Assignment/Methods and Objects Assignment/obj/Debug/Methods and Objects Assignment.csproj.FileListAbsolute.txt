@@ -1,0 +1,7 @@
+C:\Users\djank\Documents\Pitman Training\The-Tech-Academy-Basic-C-Sharp-Projects\Methods and Objects Assignment\Methods and Objects Assignment\bin\Debug\Methods and Objects Assignment.exe.config
+C:\Users\djank\Documents\Pitman Training\The-Tech-Academy-Basic-C-Sharp-Projects\Methods and Objects Assignment\Methods and Objects Assignment\bin\Debug\Methods and Objects Assignment.exe
+C:\Users\djank\Documents\Pitman Training\The-Tech-Academy-Basic-C-Sharp-Projects\Methods and Objects Assignment\Methods and Objects Assignment\bin\Debug\Methods and Objects Assignment.pdb
+C:\Users\djank\Documents\Pitman Training\The-Tech-Academy-Basic-C-Sharp-Projects\Methods and Objects Assignment\Methods and Objects Assignment\obj\Debug\Methods and Objects Assignment.csproj.AssemblyReference.cache
+C:\Users\djank\Documents\Pitman Training\The-Tech-Academy-Basic-C-Sharp-Projects\Methods and Objects Assignment\Methods and Objects Assignment\obj\Debug\Methods and Objects Assignment.csproj.CoreCompileInputs.cache
+C:\Users\djank\Documents\Pitman Training\The-Tech-Academy-Basic-C-Sharp-Projects\Methods and Objects Assignment\Methods and Objects Assignment\obj\Debug\Methods and Objects Assignment.exe
+C:\Users\djank\Documents\Pitman Training\The-Tech-Academy-Basic-C-Sharp-Projects\Methods and Objects Assignment\Methods and Objects Assignment\obj\Debug\Methods and Objects Assignment.pdb
