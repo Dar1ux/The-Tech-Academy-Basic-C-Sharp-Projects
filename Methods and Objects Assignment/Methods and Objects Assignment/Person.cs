@@ -10,8 +10,8 @@ namespace Methods_and_Objects_Assignment
     // One called FirstName, the other LastName.
     class Person
     {
-        public string FirstName;
-        public string LastName;
+        public string FirstName { get; set }
+        public string LastName { get; set }
 
         // 2. Give this class a void method called SayName() that takes no parameters and
         // simply writes the person's full name to the console in the format of: “Name: [full name]”.

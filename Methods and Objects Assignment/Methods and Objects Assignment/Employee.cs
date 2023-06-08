@@ -10,6 +10,6 @@ namespace Methods_and_Objects_Assignment
     // Give the Employee class a property called Id and have it be of data type int.
     class Employee : Person
     {
-        public int Id;
+        public int Id { get; set }
     }
 }
