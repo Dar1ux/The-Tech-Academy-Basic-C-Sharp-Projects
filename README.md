@@ -22,3 +22,4 @@ Repository will contain C# and .NET Framework projects.
 * Operators Assignment Submission - Console app implementing operator overloading for comparing objects.
 * Parameters Assignment - Console app that has a class with generic type list. It allows a creation of a list with any data type.
 * Parsing Enums Assignment - Console app where enums are used. Parsing through enums is being performed based on user input.
+* Struct Assignment - Simple console app using struct.
