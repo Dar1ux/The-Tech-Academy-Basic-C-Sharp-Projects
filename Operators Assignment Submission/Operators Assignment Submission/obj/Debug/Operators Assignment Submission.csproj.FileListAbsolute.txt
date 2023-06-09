@@ -1,0 +1,7 @@
+C:\Users\djank\Documents\Pitman Training\The-Tech-Academy-Basic-C-Sharp-Projects\Operators Assignment Submission\Operators Assignment Submission\bin\Debug\Operators Assignment Submission.exe.config
+C:\Users\djank\Documents\Pitman Training\The-Tech-Academy-Basic-C-Sharp-Projects\Operators Assignment Submission\Operators Assignment Submission\bin\Debug\Operators Assignment Submission.exe
+C:\Users\djank\Documents\Pitman Training\The-Tech-Academy-Basic-C-Sharp-Projects\Operators Assignment Submission\Operators Assignment Submission\bin\Debug\Operators Assignment Submission.pdb
+C:\Users\djank\Documents\Pitman Training\The-Tech-Academy-Basic-C-Sharp-Projects\Operators Assignment Submission\Operators Assignment Submission\obj\Debug\Operators Assignment Submission.csproj.AssemblyReference.cache
+C:\Users\djank\Documents\Pitman Training\The-Tech-Academy-Basic-C-Sharp-Projects\Operators Assignment Submission\Operators Assignment Submission\obj\Debug\Operators Assignment Submission.csproj.CoreCompileInputs.cache
+C:\Users\djank\Documents\Pitman Training\The-Tech-Academy-Basic-C-Sharp-Projects\Operators Assignment Submission\Operators Assignment Submission\obj\Debug\Operators Assignment Submission.exe
+C:\Users\djank\Documents\Pitman Training\The-Tech-Academy-Basic-C-Sharp-Projects\Operators Assignment Submission\Operators Assignment Submission\obj\Debug\Operators Assignment Submission.pdb
