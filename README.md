@@ -20,3 +20,4 @@ Repository will contain C# and .NET Framework projects.
 * Methods and Objects Assignment - Console app working with method inheritance.
 * Abstract Class Assignment - Console app showcasing abstract class and abstract method, inheritance and method override. EDIT: added interface, its inheritance, used polymorphism to create an object of its type.
 * Operators Assignment Submission - Console app implementing operator overloading for comparing objects.
+* Parameters Assignment - Console app that has a class with generic type list. It allows a creation of a list with any data type.
