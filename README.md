@@ -18,4 +18,4 @@ Repository will contain C# and .NET Framework projects.
 * Method Assignment - Console app takes 1 or 2 integers from a user, calls a method that performs math operations and returns an integer value.
 * Class Method Assignment - Console app takes  number from a user, calls a method, which performs math operation on the received number and returns integer value using out parameter.
 * Methods and Objects Assignment - Console app working with method inheritance.
-* Abstract Class Assignment - Console app showcasing abstract class and abstract method, inheritance and method override.
+* Abstract Class Assignment - Console app showcasing abstract class and abstract method, inheritance and method override. EDIT: added interface, its inheritance, used polymorphism to create an object of its type.
