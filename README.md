@@ -21,3 +21,4 @@ Repository will contain C# and .NET Framework projects.
 * Abstract Class Assignment - Console app showcasing abstract class and abstract method, inheritance and method override. EDIT: added interface, its inheritance, used polymorphism to create an object of its type.
 * Operators Assignment Submission - Console app implementing operator overloading for comparing objects.
 * Parameters Assignment - Console app that has a class with generic type list. It allows a creation of a list with any data type.
+* Parsing Enums Assignment - Console app where enums are used. Parsing through enums is being performed based on user input.
