@@ -26,3 +26,4 @@ Repository will contain C# and .NET Framework projects.
 * Lambda Expression Assignment - Console app showcasing lambda expressions.
 * Datetime Assignment - Simple console app that shows current time, asks user to input a number, and then shows what time it will be after that number of hours.
 * Constructor Assignment - Code examples of const, var and constructor chaining.
+* Try/Catch Assignment - Console app showing birth year based on current date and user's age. Additional exception created to handle zero or lower numbers entered as user's age.
