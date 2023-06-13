@@ -1,0 +1,7 @@
+C:\Users\djank\Documents\Pitman Training\The-Tech-Academy-Basic-C-Sharp-Projects\Datetime Assignment\Datetime Assignment\bin\Debug\Datetime Assignment.exe.config
+C:\Users\djank\Documents\Pitman Training\The-Tech-Academy-Basic-C-Sharp-Projects\Datetime Assignment\Datetime Assignment\bin\Debug\Datetime Assignment.exe
+C:\Users\djank\Documents\Pitman Training\The-Tech-Academy-Basic-C-Sharp-Projects\Datetime Assignment\Datetime Assignment\bin\Debug\Datetime Assignment.pdb
+C:\Users\djank\Documents\Pitman Training\The-Tech-Academy-Basic-C-Sharp-Projects\Datetime Assignment\Datetime Assignment\obj\Debug\Datetime Assignment.csproj.AssemblyReference.cache
+C:\Users\djank\Documents\Pitman Training\The-Tech-Academy-Basic-C-Sharp-Projects\Datetime Assignment\Datetime Assignment\obj\Debug\Datetime Assignment.csproj.CoreCompileInputs.cache
+C:\Users\djank\Documents\Pitman Training\The-Tech-Academy-Basic-C-Sharp-Projects\Datetime Assignment\Datetime Assignment\obj\Debug\Datetime Assignment.exe
+C:\Users\djank\Documents\Pitman Training\The-Tech-Academy-Basic-C-Sharp-Projects\Datetime Assignment\Datetime Assignment\obj\Debug\Datetime Assignment.pdb
