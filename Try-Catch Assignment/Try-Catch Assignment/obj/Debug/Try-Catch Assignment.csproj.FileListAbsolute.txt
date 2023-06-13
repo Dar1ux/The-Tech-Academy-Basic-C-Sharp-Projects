@@ -1,0 +1,6 @@
+C:\Users\djank\Documents\Pitman Training\The-Tech-Academy-Basic-C-Sharp-Projects\Try-Catch Assignment\Try-Catch Assignment\bin\Debug\Try-Catch Assignment.exe.config
+C:\Users\djank\Documents\Pitman Training\The-Tech-Academy-Basic-C-Sharp-Projects\Try-Catch Assignment\Try-Catch Assignment\bin\Debug\Try-Catch Assignment.exe
+C:\Users\djank\Documents\Pitman Training\The-Tech-Academy-Basic-C-Sharp-Projects\Try-Catch Assignment\Try-Catch Assignment\bin\Debug\Try-Catch Assignment.pdb
+C:\Users\djank\Documents\Pitman Training\The-Tech-Academy-Basic-C-Sharp-Projects\Try-Catch Assignment\Try-Catch Assignment\obj\Debug\Try-Catch Assignment.csproj.CoreCompileInputs.cache
+C:\Users\djank\Documents\Pitman Training\The-Tech-Academy-Basic-C-Sharp-Projects\Try-Catch Assignment\Try-Catch Assignment\obj\Debug\Try-Catch Assignment.exe
+C:\Users\djank\Documents\Pitman Training\The-Tech-Academy-Basic-C-Sharp-Projects\Try-Catch Assignment\Try-Catch Assignment\obj\Debug\Try-Catch Assignment.pdb
