@@ -24,3 +24,4 @@ Repository will contain C# and .NET Framework projects.
 * Parsing Enums Assignment - Console app where enums are used. Parsing through enums is being performed based on user input.
 * Struct Assignment - Simple console app using struct.
 * Lambda Expression Assignment - Console app showcasing lambda expressions.
+* Datetime Assignment - Simple console app that shows current time, asks user to input a number, and then shows what time it will be after that number of hours.
